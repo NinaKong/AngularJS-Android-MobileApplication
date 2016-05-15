@@ -8,3 +8,4 @@ Look up addresses, phone numbers, and open hours
 Find the place to eat, relax, and play
 
 #Download Link
+https://play.google.com/store/apps/details?id=io.cordova.myapp86a6f7
