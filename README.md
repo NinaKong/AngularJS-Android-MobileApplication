@@ -1,4 +1,4 @@
-# HeartBeating-Android-MobileApplication
+# AngularJS-Android-MobileApplication-HeartBeating
 #Description
 Always feel no fun places to go through weekend? No yummy restaurant you know around?
 
